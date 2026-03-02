@@ -6,7 +6,7 @@
 
 - 🌱 I have developed numerous websites, mobile, and blockchain applications so far.
   
-- 🐱‍👤 My portfolio site **https://anatoliiblashkiv/**.
+- 🐱‍👤 My portfolio site **https://portfolio-fvogoukc2-anatolii1.vercel.app/**.
 
 - 📫 How to reach me **workfreelance0207@gmail.com**
 
